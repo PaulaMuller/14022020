@@ -1,1 +1,1 @@
-Este é a pasta pa.ra o Ecoponto
+Este é  o repositório para o Ecoponto.
